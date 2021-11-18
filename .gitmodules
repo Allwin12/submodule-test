@@ -1,3 +1,6 @@
 [submodule "sample"]
 	path = sample
 	url = git@github.com:Allwin12/sample.git
+[submodule "epub2sphinx"]
+	path = epub2sphinx
+	url = git@github.com:nifey/epub2sphinx.git
