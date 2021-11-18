@@ -1,3 +1,6 @@
 [submodule "knowledge-base"]
 	path = knowledge-base
 	url = git@github.com:Allwin12/knowledge-base.git
+[submodule "sample"]
+	path = sample
+	url = git@github.com:Allwin12/sample.git
